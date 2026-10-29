@@ -1,0 +1,43 @@
+{
+  "name": "enterprise-seo-communication",
+  "version": "0.1.0",
+  "files": {
+    "SKILL.md": {
+      "sha256": "ffa3d9472d8ff17d1ba24816bf8d967a82bb08b229e9f7040424d0f65e0f55a5",
+      "bytes": 10669
+    },
+    "references/acceptance-tests.md": {
+      "sha256": "5260828c9e41d357b61d6fddcda595d1c9dfebdce64d040fd26386436d71d259",
+      "bytes": 4143
+    },
+    "references/business-translation.md": {
+      "sha256": "48fe098fd5b79fe9f4037b7ca6ed9127a327aedc65677e573a5ec3517b52e882",
+      "bytes": 5727
+    },
+    "references/meaning-and-evidence.md": {
+      "sha256": "9822ba3e325fc74e2cbeb4a693b5e1f72d571c556e47f58fefb5e170e5de1f64",
+      "bytes": 5246
+    },
+    "references/worked-examples.md": {
+      "sha256": "689496739a790c9cdddb5767f46298b961009076c165d69a8e6e9ca15ac12bcd",
+      "bytes": 6873
+    },
+    "templates/document.md": {
+      "sha256": "9fc4509653c42c809b2173b60120321b753e3aacd4702154d467434be570dd4f",
+      "bytes": 1844
+    },
+    "templates/page-audit.md": {
+      "sha256": "41d5a581a9852c3ce46dff477b071b8b749aa53cd6b6c2da9571aa8bbd0be6fa",
+      "bytes": 1723
+    },
+    "templates/phrase.md": {
+      "sha256": "eef75679419b0c04ca7de4a2a147290586f0edba2ca8032c4fe4bfe77f3386da",
+      "bytes": 1026
+    },
+    "README.md": {
+      "sha256": "5fb3a74c492b059f2c36e81ecb63232b2796f241407ce5bd80eaebff390db1db",
+      "bytes": 3667
+    }
+  },
+  "scope": "Portable runtime and README only. Private research and test logs excluded."
+}
