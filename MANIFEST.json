@@ -35,8 +35,8 @@
       "bytes": 1026
     },
     "README.md": {
-      "sha256": "5fb3a74c492b059f2c36e81ecb63232b2796f241407ce5bd80eaebff390db1db",
-      "bytes": 3667
+      "sha256": "1ea0102eaa4e0f77060e122282987fb55f59146dfa7725cec480cd2fdbcb022e",
+      "bytes": 4599
     }
   },
   "scope": "Portable runtime and README only. Private research and test logs excluded."

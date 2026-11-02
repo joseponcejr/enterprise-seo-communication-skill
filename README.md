@@ -1,8 +1,18 @@
 # Enterprise SEO Communication Translator
 
-Version 0.1.0. Built for Jose Ponce Jr.
+Technical SEO work can be accurate and still leave a business reader asking why it matters. You should not have to choose between precise facts and language a decision-maker can use.
 
-A text-first skill for making SEO and AI visibility work understandable to business readers. It translates meaning and decision relevance, not just technical terms into corporate-sounding synonyms.
+This text-first skill helps SEO practitioners and writers explain SEO and AI visibility work to leadership and enterprise audiences. It translates phrases, converts documents into business-readable drafts with a separate change record and coverage check, or audits one page's wording with exact replacement suggestions.
+
+Current boundary: version 0.1.0 produces writing drafts, not technical certification, ranking measurements, research findings, or publication approval.
+
+To get started:
+
+1. Supply the source wording, document, excerpt, or permitted page URL.
+2. Add the audience, purpose, channel, and desired length when known, then request translation, conversion, or a page audit.
+3. Review the draft and evidence conditions while keeping facts, scope, status, and commitments intact.
+
+Pasted text needs no additional package installation; file and URL handling depend on the host's permitted tools. The package is Proprietary, and redistribution requires the owner's permission.
 
 ## What it does
 
